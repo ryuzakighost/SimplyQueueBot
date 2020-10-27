@@ -1,0 +1,28 @@
+{
+  "name": "SimplyQueueBot",
+  "version": "1.0.0",
+  "description": "Discord Queue Management Bot",
+  "main": "Index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryuzakighost/SimplyQueueBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryuzakighost/SimplyQueueBot/issues"
+  },
+  "homepage": "https://github.com/ryuzakighost/SimplyQueueBot#readme",
+  "dependencies": {
+    "bufferutil": "^4.0.1",
+    "discord.js": "^12.4.0",
+    "dotenv": "^8.2.0",
+    "ffmpeg-static": "^4.2.7",
+    "opusscript": "0.0.7",
+    "utf-8-validate": "^5.0.2"
+  }
+}
