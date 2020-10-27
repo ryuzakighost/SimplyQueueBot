@@ -5,7 +5,7 @@ const queue = require('./queue.js')
 //require('dotenv').config();
 
 //Const + Var Values 
-const token = "NzY5MDQ2MDU3NzUyODU0NTM4.X5JT9A.6K0wwagrgER5br6eJF7hkNDPyFo"//token.env.TOKEN;
+const token = "NzY5MDQ2MDU3NzUyODU0NTM4.X5JT9A.3p-4fhKp_3QoUAYIKeaPk-bVWvk"//token.env.TOKEN;
 const bot = new discord.Client()
 let playerQueue = new queue.Queue()
 const permissionsError = "You have insufficient permissions to use this command"
